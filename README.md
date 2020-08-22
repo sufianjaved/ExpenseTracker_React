@@ -2,5 +2,5 @@
 Project for an Expense Tracker App utilizing React
 
 Project deployed at:
-http://tenuous-neck.surge.sh/
+http://sufian-react-expense-tracker.surge.sh/
 
